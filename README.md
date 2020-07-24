@@ -9,4 +9,5 @@ I’m currently working on Flutter, and learning the basics so I can launch my w
  How to reach me: Discord: probcodingorwatchingtheofficeUS#1158 or Email: nintendo.spy123@gmail.com.
 Have fun looking around my repos, and reach out to me if you want to collaborate or create a pull request.
 I know the basics of JS, along with HTML/CSS, Python, C and C++.
-
+Other
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=abhishekshahane)](https://github.com/anuraghazra/github-readme-stats)
