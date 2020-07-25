@@ -11,3 +11,4 @@ Have fun looking around my repos, and reach out to me if you want to collaborate
 I know the basics of JS, along with HTML/CSS, Python, C and C++.
 Other
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=abhishekshahane)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekshahane)](https://github.com/anuraghazra/github-readme-stats)
