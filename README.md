@@ -17,7 +17,11 @@ Other:
 <br></br>
 <h1>Important projects: </h1>
 <br></br>
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abhishekshahane&repo=shekwrites)](https://github.com/abhishekshahane/shekwrites)
+<ul>
+ <li>Shekwrites, my personal website</li>
+ <li>My React Project, mentioned below.</li>
+ <li>My Flutter Project, mentioned below.</li>
+ <li>And SchoolVid19, which was my CS50x final project.</li>
 
 
 
