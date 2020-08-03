@@ -14,4 +14,5 @@ I have taken Harvard's CS50x as well.
 <br></br>
 Other:
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=abhishekshahane)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=abhishekshahane&show_icons=true&theme=tokyonight)
 
