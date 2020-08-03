@@ -15,11 +15,10 @@ I have taken Harvard's CS50x as well.
 Other:
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=abhishekshahane&show_icons=true&theme=tokyonight)
 <br></br>
-<h1>Important projects</h1>
+<h1>Important projects: </h1>
+<br></br>
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abhishekshahane&repo=shekwrites)](https://github.com/abhishekshahane/shekwrites)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abhishekshahane&repo=schoolvid19)](https://github.com/delivey/schoolvid19)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abhishekshahane&repo=awesome_app)](https://github.com/abhishekshahane/awesome_app)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abhishekshahane&repo=ReactApp)](https://github.com/abhishekshahane/reactapp)
+
 
 
 
