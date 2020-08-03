@@ -13,6 +13,7 @@ I know the basics of JS, along with HTML/CSS, Python, C and C++.
 I have taken Harvard's CS50x as well.
 <br></br>
 Other:
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=abhishekshahane)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=abhishekshahane&show_icons=true&theme=tokyonight)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=abhishekshahane&repo=shekwrites)](https://github.com/abhishekshahane/shekwrites)
+
 
