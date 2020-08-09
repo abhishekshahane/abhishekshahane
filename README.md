@@ -33,6 +33,7 @@ Other:
 <ul>
  <li>A ToDo App written in React<li>
  <li>A Meme Generator.</li>
+ <li>I am also working at opcodes for a virtual machine at the moment.</li>
 </ul>
 
 
