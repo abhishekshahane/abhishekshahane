@@ -26,6 +26,12 @@ Other:
  <li>SchoolVid19, my CS50x final project.</li>
  <li>A password generator, A Rock Paper Scissors game, Tic-Tac-Toe.</li>
  <li>A click test in JavaScript.</li>
+<br></br>
+<h1>Things in progress:  </h1>
+<ul>
+ <li>A ToDo App written in React<li>
+ <li>A Meme Generator.</li>
+</ul>
 
 
 
