@@ -19,13 +19,13 @@ I have taken Harvard's CS50x as well.
 Other:
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=abhishekshahane&show_icons=true&theme=tokyonight)
 <br></br>
-<h1>Important projects: </h1>
+<h1>Things I have made: </h1>
 <br></br>
 <ul>
- <li>Shekwrites, my personal website</li>
- <li>My React Project, mentioned below.</li>
- <li>My Flutter Project, mentioned below.</li>
- <li>And SchoolVid19, which was my CS50x final project.</li>
+ <li>Shekwrites, my personal website.</li>
+ <li>SchoolVid19, my CS50x final project.</li>
+ <li>A password generator, A Rock Paper Scissors game, Tic-Tac-Toe.</li>
+ <li>A click test in JavaScript.</li>
 
 
 
