@@ -36,8 +36,7 @@ Other:
  <li>I am also working at opcodes for a virtual machine at the moment with my friend LucDeWit.</li>
 </ul>
 <br></br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<h1>Enjoy!</h1>
 
 
 
