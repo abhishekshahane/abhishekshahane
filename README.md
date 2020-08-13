@@ -12,7 +12,7 @@ I’m currently working on Flutter, and learning the basics so I can launch my w
  Discord: probcodingorwatchingtheofficeUS#1158 or Email: nintendo.spy123@gmail.com.
  <br></br>
 Have fun looking around my repos, and reach out to me if you want to collaborate or create a pull request.
-I know the basics of JS, along with HTML/CSS, Python, C and C++.
+I know JS, along with HTML/CSS, Python, C and C++.
 <br></br>
 I have taken Harvard's CS50x as well.
 <br></br>
