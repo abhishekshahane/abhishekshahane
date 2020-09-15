@@ -1,8 +1,7 @@
 ### Hi there 👋, I'm Abhishek.
 
 
-I’m currently working on Flutter, and learning the basics so I can launch my website, Shekwrites as a app.
- I’m currently learning ReactJS, and hoping to relearn SQL because I forgot:(
+ I’m currently learning ReactJS(as well as GO), and hoping to relearn SQL because I forgot:(
  I’m looking to collaborate on any websites or small projects.
  I’m looking for help with Node.js. 
  <br></br>
