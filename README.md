@@ -36,7 +36,6 @@ Other:
 </ul>
 <br></br>
 <h1>Enjoy!</h1>
-Unfortunately, I'm not commiting to GitHub much at the moment, but will in 2 weeks:)
 
 
 
