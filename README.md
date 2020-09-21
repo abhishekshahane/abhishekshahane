@@ -23,7 +23,7 @@ Other:
 <ul>
  <li>Shekwrites, my personal website.</li>
  <li>SchoolVid19, my CS50x final project.</li>
- <li><a href="https://github.com/abhishekshahane/passwordgenerator/blob/master/passwordgenerator.py">A password generator</a>, <a href="https://github.com/abhishekshahane/RockPaperScissors">A Rock Paper Scissors game</a>, <a href="https://github.com/abhishekshahane/A-Tic-Tac-Toe-Game"Tic-Tac-Toe</a>.</li>
+ <li><a href="https://github.com/abhishekshahane/passwordgenerator/blob/master/passwordgenerator.py">A password generator</a>, <a href="https://github.com/abhishekshahane/RockPaperScissors">A Rock Paper Scissors game</a>, <a href="https://github.com/abhishekshahane/A-Tic-Tac-Toe-Game"Tic- Tac-Toe</a>.</li>
  <li><a href="https://github.com/abhishekshahane/clicktest">A click test in JavaScript</a>.</li>
 </ul>
 <br></br>
