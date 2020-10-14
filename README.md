@@ -33,6 +33,7 @@ Other:
  <li>A ToDo App written in React<li>
  <li>A Meme Generator.</li>
  <li>I am also working at opcodes for a virtual machine at the moment with my friend LucDeWit.</li>
+ <li>A Python to Pseudocode transpiler(people who studied CS at UK at school will know what I'm talking about:)</li>
 </ul>
 <br></br>
 <h1>Enjoy!</h1>
