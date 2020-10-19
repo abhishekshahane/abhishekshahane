@@ -25,6 +25,7 @@ Other:
  <li>SchoolVid19, my CS50x final project.</li>
  <li><a href="https://github.com/abhishekshahane/passwordgenerator/blob/master/passwordgenerator.py">A password generator</a>, <a href="https://github.com/abhishekshahane/RockPaperScissors">A Rock Paper Scissors game</a>, <a href="https://github.com/abhishekshahane/A-Tic-Tac-Toe-Game"</a>Tic-Tac-Toe</li>
  <li><a href="https://github.com/abhishekshahane/clicktest">A click test in JavaScript</a>.</li>
+ <li>A Python to Pseudocode transpiler(people who studied CS at UK at school will know what I'm talking about:)</li>
 </ul>
 <br></br>
 <h1>Things in progress:  </h1>
@@ -33,7 +34,6 @@ Other:
  <li>A ToDo App written in React</li>
  <li>A Meme Generator.</li>
  <li>I am also working at opcodes for a virtual machine at the moment with my friend LucDeWit.</li>
- <li>A Python to Pseudocode transpiler(people who studied CS at UK at school will know what I'm talking about:)</li>
 </ul>
 <br></br>
 <h1>Enjoy!</h1>
