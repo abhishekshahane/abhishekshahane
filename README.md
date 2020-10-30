@@ -2,8 +2,7 @@
 
 
  I’m currently learning ReactJS(as well as GO), and hoping to relearn SQL because I forgot:(
- I’m looking to collaborate on any websites or small projects.
- I’m looking for help with Node.js. 
+ I know these technologies: Python, HTML, CSS, JavaScript, C++, Flask(basics), ReactJS and Git.
  <br></br>
  Ask me about HTML and CSS or C / C++, I might be able to help you with those.
  How to reach me: 
