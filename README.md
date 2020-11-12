@@ -8,7 +8,7 @@
  Ask me about HTML and CSS or C / C++, I might be able to help you with those.
  How to reach me: 
  <br></br>
- Discord: probcodingorwatchingtheofficeUS#1158 or Email: nintendo.spy123@gmail.com.
+ Discord: probcodingorwatchingSuits#1158 or Email: nintendo.spy123@gmail.com.
  <br></br>
 Have fun looking around my repos, and reach out to me if you want to collaborate or create a pull request.
 I know JS, along with HTML/CSS, Python, C and C++.
