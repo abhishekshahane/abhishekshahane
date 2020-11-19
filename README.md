@@ -32,7 +32,7 @@ Other:
 <ul>
  <li>A ToDo App written in React</li>
  <li>A Meme Generator.</li>
-  <li>A Discord Bot written in JS.</li>
+  <li>A Discord Bot written in JS(named Bumblebee).</li>
  <li>I am also working at opcodes for a virtual machine at the moment with my friend LucDeWit.</li>
 </ul>
 <br></br>
