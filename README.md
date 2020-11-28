@@ -3,7 +3,7 @@
 
  I’m currently learning ReactJS(as well as GO), and hoping to relearn SQL because I forgot:(
  <br></br>
- I know these languages/technologies: Python, HTML, CSS, SCSS, DiscordJS(familiar), JavaScript, C++, Flask(basics), ReactJS and Git.
+ I know these languages/technologies: Python, HTML, CSS, SCSS, DiscordJS(familiar), JavaScript, Quick.DB, C++, Flask(basics), ReactJS and Git.
  <br></br>
  How to reach me: 
  <br></br>
