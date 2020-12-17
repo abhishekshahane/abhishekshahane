@@ -33,7 +33,6 @@ Other:
  <li>A ToDo App written in React</li>
  <li>A Meme Generator.</li>
   <li>A Discord Bot written in JS(named Bumblebee).</li>
- <li>I am also working at opcodes for a virtual machine at the moment with my friend LucDeWit.</li>
 </ul>
 <br></br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekshahane&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
