@@ -1,16 +1,13 @@
 ### Hi there 👋, I'm Abhishek.
 
 
- I’m currently learning ReactJS(as well as GO), and hoping to relearn SQL because I forgot:(
+ I’m currently taking CS50W, so I'm quite busy at the moment.
  <br></br>
  I know these languages/technologies: Python, HTML, CSS, SCSS, DiscordJS(familiar), JavaScript, Quick.DB, C++, Flask(basics), ReactJS and Git.
  <br></br>
  How to reach me: 
  <br></br>
  Discord: probcodingorwatchingSuits#1158 or Email: nintendo.spy123@gmail.com.
- <br></br>
-Have fun looking around my repos, and reach out to me if you want to collaborate or create a pull request.
-I know JS, along with HTML/CSS, Python, C and C++.
 <br></br>
 I have taken Harvard's CS50x as well.
 <br></br>
