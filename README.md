@@ -20,7 +20,7 @@ Other:
  <li>Shekwrites, my personal website.</li>
  <li>SchoolVid19, my CS50x final project.</li>
  <li><a href="https://github.com/abhishekshahane/A-Tic-Tac-Toe-Game"</a>Tic-Tac-Toe</li>
- <li><a href="https://github.com/abhishekshahane/clicktest">A click test in JavaScript</a>.</li>
+ <li><a href="https://github.com/abhishekshahane/CS50W/tree/main/pset1">A google-like clone</a>.</li>
  <li>A Python to Pseudocode transpiler(people who studied CS at UK at school will know what I'm talking about:)</li>
  <li>A Discord Bot written in JS(named Bumblebee).</li>
 </ul>
