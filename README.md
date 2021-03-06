@@ -34,7 +34,7 @@ Other:
 <br></br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekshahane&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 <h1>Enjoy!</h1>
-<h3>Going for 1000 commits!:)</h3>
+<h3>Unfortunately, can't commit much at the moment(have tests coming up).</h3>
 
 
 
