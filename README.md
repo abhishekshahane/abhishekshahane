@@ -3,7 +3,7 @@
 
  I’m currently taking CS50W, so I'm quite busy at the moment.
  <br></br>
- I know these languages/technologies: Python, HTML, CSS, SCSS, DiscordJS(familiar), JavaScript, Quick.DB, C++, Flask(basics), ReactJS and Git.
+ I know these languages/technologies: Python, HTML, CSS, SCSS, DiscordJS(familiar), JavaScript, Quick.DB, C++, Django, Flask-HTML, ReactJS and Git.
  <br></br>
  How to reach me: 
  <br></br>
