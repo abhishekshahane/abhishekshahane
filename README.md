@@ -8,10 +8,20 @@
  How to reach me: 
  <br></br>
  Discord: probcodingorwatchingSuits#1158 or Email: nintendo.spy123@gmail.com.
+ <br>
+ <br>
+ You can also find me on these coding websites:
+ <br>
+ <br>
+ <a href="https://www.codewars.com/users/abhishekshahane">Codewars</a>
+ <br>
+ <a href="https://www.codechef.com/users/abhishek_2112">CodeChef</a>
+ <br>
+ <a href="https://www.hackerrank.com/nintendo_spy123">Hackerrank</a>
 <br></br>
+<br>
 I have taken Harvard's CS50x as well.
 <br></br>
-Other:
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=abhishekshahane&show_icons=true&theme=tokyonight)
 <br></br>
 <h1>Things I have made: </h1>
