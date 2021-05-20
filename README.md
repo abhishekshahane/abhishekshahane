@@ -23,24 +23,7 @@
 I have taken Harvard's CS50x as well.
 <br></br>
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=abhishekshahane&show_icons=true&theme=tokyonight)
-<br></br>
-<h1>Things I have made: </h1>
-<br></br>
-<ul>
- <li>Shekwrites, my personal website.</li>
- <li>SchoolVid19, my CS50x final project.</li>
- <li><a href="https://github.com/abhishekshahane/A-Tic-Tac-Toe-Game"</a>Tic-Tac-Toe</li>
- <li><a href="https://github.com/abhishekshahane/CS50W/tree/main/pset1">A google-like clone</a>.</li>
- <li>A Python to Pseudocode transpiler(people who studied CS at UK at school will know what I'm talking about:)</li>
- <li>A Discord Bot written in JS(named Bumblebee).</li>
-</ul>
-<br></br>
-<h1>Things in progress:  </h1>
-<br></br>
-<ul>
- <li>A ToDo App written in React</li>
- <li>A Meme Generator.</li>
-</ul>
+
 <br></br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekshahane&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 <h1>Enjoy!</h1>
