@@ -1,13 +1,11 @@
 ### Hi there 👋, I'm Abhishek.
 
-
- I’m currently taking CS50W, so I'm quite busy at the moment.
- <br></br>
- I know these languages/technologies: Python, HTML, CSS, SCSS, DiscordJS(familiar), JavaScript, Quick.DB, C++, Django, Flask-HTML, ReactJS and Git.
- <br></br>
+<br><br>
+ I am familiar with these languages/technologies: Python, HTML, CSS, SCSS, DiscordJS(familiar), JavaScript, Quick.DB, C++, Django(Models and Forms), Django-HTML and Git.
+ <br>
  How to reach me: 
  <br></br>
- Discord: probcodingorwatchingSuits#1158 or Email: nintendo.spy123@gmail.com.
+ Discord: Abhishek4029#4607 or Email: nintendo.spy123@gmail.com.
  <br>
  <br>
  You can also find me on these coding websites:
@@ -19,8 +17,6 @@
  <br>
  <a href="https://www.hackerrank.com/nintendo_spy123">Hackerrank</a>
 <br></br>
-<br>
-I have taken Harvard's CS50x as well.
 <br></br>
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=abhishekshahane&show_icons=true&theme=tokyonight)
 
