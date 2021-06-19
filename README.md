@@ -6,7 +6,7 @@
  <br>
  How to reach me: 
  <br></br>
- Discord: Abhishek4029#4607 or Email: nintendo.spy123@gmail.com.
+ Email: nintendo.spy123@gmail.com.
  <br>
  <br>
  You can also find me on these coding websites:
